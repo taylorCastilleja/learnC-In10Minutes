@@ -19,5 +19,6 @@ bool isFemale = true;
   //Concept No. 4: Modulus Operator- gives the remainder or what is left over when you divide. Percent is a mod
    cout<< 23%3;
  
-
+return 0;
+}
 
