@@ -1,0 +1,23 @@
+#include<iostream>
+
+using namespace std;
+
+int main()
+{
+//Concept No. 1: Functions
+cout<<"This is a function in C++. Functions perform tasks in your code. They do things." <<endl;
+string lengthFunction = "Hello World";
+cout<< lengthFunction.length();
+
+//Concept No. 2: Variables
+string myVariable = "Variables are containers that store data. They make it easier to manage the data within your code.";
+
+//Concept No. 3: Boolean- a true or false value in code
+bool isMale = false;
+bool isFemale = true;
+
+  //Concept No. 4: Modulus Operator- gives the remainder or what is left over when you divide. Percent is a mod
+   cout<< 23%3;
+ 
+
+
