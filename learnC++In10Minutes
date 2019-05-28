@@ -5,7 +5,14 @@ using namespace std;
 int main()
 {
 //Concept No. 0: Functions
-cout<<"This is a function in C++. Functions perform tasks in your code. They do things." <<endl;
+void explainFunction() 
+{
+cout<< "This is a function. Functions perform tasks in your code. They do things. Functions are also used to return values";
+int main() 
+{
+explainFunction();
+return 0;
+}
 string lengthFunction = "Hello World";
 cout<< lengthFunction.length();
 
