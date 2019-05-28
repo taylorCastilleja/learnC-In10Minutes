@@ -12,11 +12,15 @@ cout<< lengthFunction.length();
 //Concept No. 1: Variables
 string myVariable = "Variables are containers that store data. They make it easier to manage the data within your code.";
 
-//Concept No. 2: Boolean- a true or false value in code
+//Concept No. 2: Arrays
+string arrayElements[] = {"an, Array, is, like, a, variable, but, stores, multiple, different, values"};
+
+
+//Concept No. 3: Boolean- a true or false value in code
 bool isMale = false;
 bool isFemale = true;
 
-  //Concept No. 3: Modulus Operator- gives the remainder or what is left over when you divide. Percent is a mod
+  //Concept No. 4: Modulus Operator- gives the remainder or what is left over when you divide. Percent is a mod
    cout<< 23%3;
  
 return 0;
