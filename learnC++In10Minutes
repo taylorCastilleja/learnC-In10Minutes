@@ -15,8 +15,8 @@ explainFunction();
 string lengthFunction = "Hello World";
 cout<< lengthFunction.length();
 
-  //Concept No. 1: Variables
-  string myVariable = "Variables are containers that store data. They make it easier to manage the data within your code.";
+    //Concept No. 1: Variables
+    string myVariable = "Variables are containers that store data. They make it easier to manage the data within your code.";
 
 //Concept No. 2: Arrays
 string arrayElements[] = {"an, Array, is, like, a, variable, but, stores, multiple, different, values"};
@@ -26,16 +26,16 @@ string arrayElements[] = {"an, Array, is, like, a, variable, but, stores, multip
 bool isMale = false;
 bool isFemale = true;
 
-  //Comcept No. 4: If Statements- decisions in your code that the program responds to, that allow you to do certain things for each situation
-  bool isBrunette = true;
-  if(isBrunette)
-  {
-  cout<< "You have dark hair";
-  }
-  else 
-  {
-  cout<< "You have light hair";
-  }
+    //Comcept No. 4: If Statements- decisions in your code that the program responds to, that allow you to do certain things for each situation
+    bool isBrunette = true;
+    if(isBrunette)
+    {
+    cout<< "You have dark hair";
+    }
+    else 
+    {
+    cout<< "You have light hair";
+    }
  
 
   //Concept No. 5: Modulus Operator- gives the remainder or what is left over when you divide. Percent is a mod
